@@ -24,7 +24,7 @@ Prompts designed to generate executable code for real-world data tasks — from 
 **Outputs**:
 - Cleaned datasets (CSV, Excel, Parquet)
 - Auto-generated analytics reports
-- Visualizations: bar charts, histograms, line plots
+- Visualizations: bar charts, histograms, line plots ([smart-dashboard-demos](https://github.com/Anuj-Nagar-0910/smart-dashboard-demos) created from the prompt)
 
 ---
 
